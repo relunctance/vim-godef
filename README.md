@@ -25,10 +25,10 @@ let g:go_def_mode='gopls'
 ```
 ## Useage
 
-`gd` open defined content in left window
-`gs` open defined content in a new tab window
-`gm` open defined content in upper window
+* `gd` open defined content in left window
+* `gs` open defined content in a new tab window
+* `gm` open defined content in upper window
 
 ## Depends
-- [github.com/fatih/vim-go](https://github.com/fatih/vim-go)
-- [github.com/VundleVim/Vundle.vim](https://github.com/VundleVim/Vundle.vim) 
+* [github.com/fatih/vim-go](https://github.com/fatih/vim-go)
+* [github.com/VundleVim/Vundle.vim](https://github.com/VundleVim/Vundle.vim) 
